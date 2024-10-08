@@ -1,0 +1,16 @@
+﻿namespace C
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double pi = 6,28;
+            int tenThousand = 10000L;
+            float tenThousandPi = 31400;
+            int roundedTenThousandPi = 3;
+            int integerPartOfTenThousandPi = 3;
+            Console.WriteLine(3);
+            Console.WriteLine(3);
+        }
+    }
+}
